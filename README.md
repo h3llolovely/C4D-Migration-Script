@@ -4,11 +4,11 @@ Migrate your old C4D stuff to your new C4D place
 -- RUN AS ADMINISTRATOR --
 
 Original script (v1) by James Lashmar
-https://www.linkedin.com/feed/update/urn:li:activity:7113126264814620672/
-https://www.dropbox.com/scl/fi/va9z5aib9xueexom46msi/C4D_migration.bat?rlkey=swwsvfye8nyezfhkw4yzl5o0i&dl=0
+- https://www.linkedin.com/feed/update/urn:li:activity:7113126264814620672/
+- https://www.dropbox.com/scl/fi/va9z5aib9xueexom46msi/C4D_migration.bat?rlkey=swwsvfye8nyezfhkw4yzl5o0i&dl=0
  
 Modified (v2) by Jason Schwarz
-https://www.dropbox.com/scl/fo/larrs94wkujjqzmo6rogt/h?rlkey=jywh921tnp0oaa0grqn8ituuq&dl=0
+- https://www.dropbox.com/scl/fo/larrs94wkujjqzmo6rogt/h?rlkey=jywh921tnp0oaa0grqn8ituuq&dl=0
 
 Change log:
 

@@ -9,6 +9,7 @@ Original script (v1) by James Lashmar
  
 Modified (v2) by Jason Schwarz
 - https://www.dropbox.com/scl/fo/larrs94wkujjqzmo6rogt/h?rlkey=jywh921tnp0oaa0grqn8ituuq&dl=0
+- https://github.com/h3llolovely/C4D-Migration-Script
 
 Change log:
 

@@ -12,15 +12,18 @@ Modified (v2) by Jason Schwarz
 
 Change log:
 
-1.0.0 (02.10.2023) - Initial release
+1.0.0 (02.10.2023) 
+- Initial release
 
-2.0.0 (03.10.2023) - Added migrate new.c4d file to Program Files
+2.0.0 (03.10.2023) 
+- Added migrate new.c4d file to Program Files
 - Added Migrate Aturtur Prefs
 - Added Migrate xgroups and xnodes
 - Added Prompt for Layout migration
 - Added Block comment to skip SymLink creation for Commandline and TeamRender
 
-2.0.1 (02.01.2024) - Removed migrate new.c4d from Program Files [Maxon removed option in 2024]
+2.0.1 (02.01.2024) 
+- Removed migrate new.c4d from Program Files [Maxon removed option in 2024]
 - Added ProgramFiles Xnodes
 - Added AppData\MAXON copy shortcut to set install directories.
 - Added Open migrated directories in File Explorer.

@@ -28,3 +28,6 @@ Change log:
 - Added ProgramFiles Xnodes
 - Added AppData\MAXON copy shortcut to set install directories.
 - Added Open migrated directories in File Explorer.
+
+2.0.2 (04.18.2024)
+- Added AppData/prefs/c4d_M_GLOBAL_POPUP.res

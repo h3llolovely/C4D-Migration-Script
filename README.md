@@ -7,7 +7,7 @@ Original script (v1) by James Lashmar
 - https://www.linkedin.com/feed/update/urn:li:activity:7113126264814620672/
 - https://www.dropbox.com/scl/fi/va9z5aib9xueexom46msi/C4D_migration.bat?rlkey=swwsvfye8nyezfhkw4yzl5o0i&dl=0
  
-Modified (v2) by Jason Schwarz
+Modified (v2-3) by Jason Schwarz
 - https://www.dropbox.com/scl/fo/larrs94wkujjqzmo6rogt/h?rlkey=jywh921tnp0oaa0grqn8ituuq&dl=0
 - https://github.com/h3llolovely/C4D-Migration-Script
 

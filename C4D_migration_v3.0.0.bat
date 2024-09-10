@@ -1,6 +1,6 @@
 @ECHO OFF
 
-Title Cinema 4D Migration Script v2.0.2
+Title Cinema 4D Migration Script v3.0.0
 :: -- RUN AS ADMINISTRATOR --
 ::
 :: Original script by James Lashmar

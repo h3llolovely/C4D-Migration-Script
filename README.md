@@ -14,6 +14,9 @@ Migrate your old C4D stuff to your new C4D place
 - Xpresso xgroups and xnodes
 - Scripts
 - Keyboard shortcuts
+  - ***Correction:*** *Migrated shortcuts are copied but do not load. You will need to manually edit the new file @ %appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\prefs\shortcuts\Cinema 4D R25 (modified).res*
+  - *From the old shortcuts file: Copy everything after "PLUGIN_CMD_431000216	ALT+"W";"*
+  - *In the new shortcuts file: Paste after "IDM_MODELING_SPLIT	OPTIONMODE	"U"~SHIFT+"P";"*
 - Custom layouts
 - All plugins stored in %programfiles%\Maxon Cinema 4D [Version]\plugins and %appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\plugins
 

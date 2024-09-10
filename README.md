@@ -1,7 +1,32 @@
 # C4D-Migration-Script
 Migrate your old C4D stuff to your new C4D place
 
--- RUN AS ADMINISTRATOR --
+---
+
+**Instructions:**
+1. Install new Cinema 4D version.
+2. Run C4D Migration script __as Administrator__
+
+**Currently Syncs:**
+- Default C4D scene file *( if stored in %appdata%\Maxon Cinema 4D [Version]_XXXXXXXX )*
+- Aturtur scriptd/plugin preferences
+- Custom Global PopUp Menu
+- Xpresso xgroups and xnodes
+- Scripts
+- Keyboard shortcuts
+- Custom layouts
+- All plugins stored in %programfiles%\Maxon Cinema 4D [Version]\plugins and %appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\plugins
+
+**Currently Disabled:** *(Can be uncommented)*
+- Browser .lib4d catalogs
+- Commandline folder plugins symbolic link creation
+
+**Limitations:**
+- Does not transfer C4D in-app or plugin preferences *( i.e plugin / asset paths, navigaation / timeline settings, etc... )*
+
+### Feel free to copy and modify to suite your needs.
+
+---
 
 Original script (v1) by James Lashmar
 - https://www.linkedin.com/feed/update/urn:li:activity:7113126264814620672/

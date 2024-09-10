@@ -31,3 +31,6 @@ Change log:
 
 2.0.2 (04.18.2024)
 - Added AppData/prefs/c4d_M_GLOBAL_POPUP.res
+
+3.0.0 (09.10.2024)
+- Mostly replaced Xcopy with Robocopy to exclude Redshift, Commented out Browser .lib4d section.

@@ -8,15 +8,17 @@ Migrate your old C4D stuff to your new C4D place
 2. Run C4D Migration script __as Administrator__
 
 **Currently Syncs:**
-- Default C4D scene file *( if stored in %appdata%\Maxon Cinema 4D [Version]_XXXXXXXX )*
-- Aturtur scriptd/plugin preferences
+- Default C4D scene file ( if stored in **%appdata%\Maxon Cinema 4D [Version]_XXXXXXXX** )
+- Aturtur scripts/plugin preferences
 - Custom Global PopUp Menu
 - Xpresso xgroups and xnodes
 - Scripts
 - Keyboard shortcuts
-  - ***Correction:*** *Migrated shortcuts are copied but do not load. You will need to manually edit the new file @ %appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\prefs\shortcuts\Cinema 4D R25 (modified).res*
-  - *From the old shortcuts file: Copy everything after "PLUGIN_CMD_431000216	ALT+"W";"*
-  - *In the new shortcuts file: Paste after "IDM_MODELING_SPLIT	OPTIONMODE	"U"~SHIFT+"P";"*
+  - ***Correction:***
+    - Migrated shortcuts are copied but do not load.
+    - You will need to manually edit the new file ( **Cinema 4D R25 (modified).res** ): located in **%appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\prefs\shortcuts**
+    - From the old shortcuts file ( **Cinema 4D 2024 (modified).res** ): **Copy everything after** -- "PLUGIN_CMD_431000216	ALT+"W";"
+    - In the new shortcuts file: **Paste after** -- "IDM_MODELING_SPLIT	OPTIONMODE	"U"~SHIFT+"P";"
 - Custom layouts
 - All plugins stored in %programfiles%\Maxon Cinema 4D [Version]\plugins and %appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\plugins
 

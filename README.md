@@ -27,7 +27,8 @@ Migrate your old C4D stuff to your new C4D place
 - Commandline folder plugins symbolic link creation
 
 **Limitations:**
-- Does not transfer C4D in-app or plugin preferences *( i.e plugin / asset paths, navigaation / timeline settings, etc... )*
+- Does not transfer C4D in-app or plugin preferences *( i.e plugin / asset paths, navigation / timeline settings, etc... )*
+- It is recommended to take screenshots of all C4D preferences from the previous version. You will have to manually apply them.
 
 ### Feel free to copy and modify to suite your needs.
 

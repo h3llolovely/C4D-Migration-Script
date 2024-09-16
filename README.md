@@ -19,9 +19,9 @@ Migrate your old C4D stuff to your new C4D place
     - You will need to manually edit the new file ( **Cinema 4D R25 (modified).res** ): located in **%appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\prefs\shortcuts**
     - From the old shortcuts file ( **Cinema 4D 2024 (modified).res** ): **Copy everything after** -- "PLUGIN_CMD_431000216	ALT+"W";"
     - In the new shortcuts file: **Paste after** -- "IDM_MODELING_SPLIT	OPTIONMODE	"U"~SHIFT+"P";"
-- Custom layouts
+- Custom layouts ( some older palettes may need to be replaced )
 - All plugins stored in **%programfiles%\Maxon Cinema 4D [Version]\plugins** and **%appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\plugins**
-    - C4D_migration_v3.0.0 excludes copying Redshift from **%programfiles%\Maxon Cinema 4D [Version]\plugins** )
+    - C4D_migration_v3.0.0 DOES NOT copy Redshift from **%programfiles%\Maxon Cinema 4D [Version]\plugins** )
     - You will need to update some plugins after migration, ( i.e. GSG Hub, GSG Studio connector, X-Particles ) to thier latest version.
 
 **Currently Disabled:** *(Can be uncommented)*

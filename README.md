@@ -38,7 +38,7 @@ Please share any updates you make.
 ## Wish List
 - A fully integrated migration on app upgrade. *(similar to how After Effects migrates setting, scripts, plugins, etc...)*
 - Ability to sync/save In-App preferences *( i.e. asset paths, navigation / timeline settings, etc... )*
-- Automated keyboard shortcut updater script or plugin. A method of automatically duplicating a modified version of the new shortcuts file and appending into that file, the custom shortcuts from the previous versions shortcuts(modified).res file.
+- Automated keyboard shortcut updater script or plugin. A method of automatically duplicating a modified version of the new shortcuts file and appending into that file, the custom shortcuts from the previous version's shortcuts(modified).res file.
 
 ---
 

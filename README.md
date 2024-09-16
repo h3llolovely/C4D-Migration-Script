@@ -29,10 +29,15 @@ Migrate your old C4D stuff to your new C4D place
 - Commandline folder plugins symbolic link creation
 
 **Limitations:**
-- Does not transfer C4D in-app or plugin preferences *( i.e plugin / asset paths, navigation / timeline settings, etc... )*
+- Does not transfer C4D in-app or plugin preferences *( i.e. asset paths, navigation / timeline settings, etc... )*
 - It is recommended to take screenshots of all C4D preferences from the previous version. You will have to manually apply them.
 
 ### Feel free to copy and modify to suite your needs.
+Please share any updates you make.
+
+##Wish List
+- Ability to sync/save In-App preferences *( i.e. asset paths, navigation / timeline settings, etc... )*
+- Automated keyboard shortcut updater script or plugin. A method of automatically duplicating a modified version of the new shortcuts file and appending into that file, the custom shortcuts from the previous versions shortcuts(modified).res file.
 
 ---
 

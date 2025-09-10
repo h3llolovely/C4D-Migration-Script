@@ -73,3 +73,6 @@ Change log:
 
 3.0.0 (09.10.2024)
 - Mostly replaced Xcopy with Robocopy to exclude Redshift, Commented out Browser .lib4d section.
+
+3.0.1 (09.10.2025)
+- Minor update for Cinema 4D 2026 release.

@@ -17,7 +17,7 @@ Migrate your old C4D stuff to your new C4D place
   - ***Correction:***
     - Migrated shortcuts are copied but do not load. **You will need to add a custom shortcut for C4D to make a new "Cinema 4D R25 (modified).res" file first.**
     - You will need to manually edit the new file ( **Cinema 4D R25 (modified).res** ): located in **%appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\prefs\shortcuts**
-    - From the old shortcuts file ( **Cinema 4D 2024 (modified).res** ): **Copy everything after** -- "PLUGIN_CMD_431000216	ALT+"W";"
+    - From the old shortcuts file ( **Cinema 4D 2024 (modified).res** or **Cinema 4D R25 (modified).res** ): **Copy everything after** -- Cinema 4D 2024 (modified).res: "PLUGIN_CMD_431000216	ALT+"W";" or Cinema 4D R25 (modified).res: "IDM_MODELING_SPLIT	OPTIONMODE	"U"~SHIFT+"P";"
     - In the new shortcuts file: **Paste after** -- "IDM_MODELING_SPLIT	OPTIONMODE	"U"~SHIFT+"P";"
 - Custom layouts *( some older palettes may need to be replaced )*
 - All plugins stored in **%programfiles%\Maxon Cinema 4D [Version]\plugins** and **%appdata%\Maxon Cinema 4D [Version]_XXXXXXXX\plugins**
